@@ -1,4 +1,6 @@
 ---
+id: documentation
+title: Documentation
 slug: /
 sidebar_position: 1
 ---
