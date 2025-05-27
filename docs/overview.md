@@ -1,10 +1,13 @@
 ---
 sidebar_position: 2
 ---
+# Overview 
 
-# Overview
+The Community Climate Action Scoreboard is a web-based tool for tracking and visualizing the climate action impact of the Evanston community. It aggregates data across People, Place, and Policy, supports submissions from local organizations, and integrates with CAE’s Webflow site and external sources to foster collaboration and engagement.
 
-**DISC-CAE** is a full-stack web application for the DISC program, built with **React** and **Node.js/Express**. 
+---
+
+**DISC-CAE** is a full-stack web application built with **React** and **Node.js/Express**, designed for modular, secure, and maintainable climate action data management.
 
 ---
 
