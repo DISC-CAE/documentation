@@ -100,19 +100,6 @@ const config = {
               },
             ],
           },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/DISC-CAE/documentation',
-              },
-            ],
-          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} DISC-CAE. Built with Docusaurus.`,
       },
