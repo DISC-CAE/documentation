@@ -4,8 +4,7 @@ sidebar_position: 5
 
 # Acknowledgements
 
-We reuse content & ideas from:
+This documentation and the DISC-CAE project were made possible with the help, inspiration, and resources from several communities and individuals. We gratefully acknowledge:
 
-- “Diátaxis Documentation Framework” by Daniele Procida
-- “Write the Docs” community best practices
-- *The Mythical Man-Month* by Fred Brooks (Chap. 15, “The Other Face”)
+- Climate Action Evanston — for their dedication, collaboration, and commitment to advancing climate action in the Evanston community.
+- DISC: Develop and Innovate for Social Change — for mentorship, project support, and the opportunity to build socially impactful technology.

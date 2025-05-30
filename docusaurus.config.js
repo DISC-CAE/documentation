@@ -67,7 +67,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Documentation',
           },
         ],
       },
@@ -75,7 +75,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentation',
             items: [
               {
                 label: 'Home',
@@ -87,21 +87,17 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'DISC Website',
+                href: 'https://www.discnu.org/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'GitHub',
+                href: 'https://github.com/DISC-CAE',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DISC-CAE. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Develop and Innovate for Social Change. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

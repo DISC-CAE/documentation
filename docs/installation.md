@@ -62,6 +62,20 @@ npm start
 ```
 This will start the backend server (by default, often on [http://localhost:5000](http://localhost:5000) or another port-check your terminal output).
 
+## Database Schema
+
+Below is the current backend database schema for DISC-CAE:
+
+![Database schema for backend setup](/img/backend-setup.png)
+
+- **metrics**: Stores metric records and links to initiatives.
+- **initiatives**: Contains initiative details, linked to programs.
+- **programs**: List of programs.
+- **program_passwords**: Stores passwords for programs.
+- **user_roles**: User roles per program.
+- **auth.users**: User authentication (managed by Supabase).
+
+
 ---
 
 ## Set up environment variables:

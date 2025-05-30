@@ -21,11 +21,9 @@ sidebar_position: 3
 
 6. **Document any changes** you make for future teams.
 
-## Recommended Practices
+## Recommended Next Steps
 
-- Use version control for all code changes.
-- Keep environment variables and secrets secure.
-- Communicate with your team about any major changes or issues.
+- Implement aggregation of data across multiple initiatives
 
 ## If You Get Stuck
 
