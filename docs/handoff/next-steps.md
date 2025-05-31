@@ -24,6 +24,8 @@ sidebar_position: 3
 ## Recommended Next Steps
 
 - Implement aggregation of data across multiple initiatives
+- Connect the scoreboard to the existing CAE website
+- Verifying and inputting real data accurately into the system
 
 ## If You Get Stuck
 
